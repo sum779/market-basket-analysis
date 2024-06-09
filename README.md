@@ -1,7 +1,7 @@
 # Market Basket Analysis
 Market basket analysis is a technique used in data mining and retail industry to identify the relationships between different products that are frequently purchased together by customers. It is highly used by retail,finance, ecommerce, in store for cross selling their product.
 
-Because of sensitive information i have not printed datasets and result but i will add add final results using Power BI.
+Because of sensitive information i have not printed datasets and result but i will add final results which was done using Power BI.
 For sample of data, i have added how data looked like by changing product name and company name,address.
 
 <table>
