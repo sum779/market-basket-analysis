@@ -3,7 +3,7 @@ Market basket analysis is a technique used in data mining and retail industry to
 
 Because of sensitive information i have not printed datasets and result but have added visualizations part which was done using Power BI using Force Directed Graph.
 For sample of data, i have added how data looked like by changing product name and company name,address.
-
+<b>Sample Table structure</b>
 <table>
   <tr>
     <th>Transacti</th>
@@ -126,4 +126,4 @@ For sample of data, i have added how data looked like by changing product name a
    <td>0.747426</td>
  </tr>
 </table>
-<p>We can interpret that whenever people buy Product 1 there is 23% chances of buying product 5.Similarly there is 0.5% of chances of having this transactions overall.</p>
+<p><b>Interpretation</b>We can interpret that whenever people buy Product 1 there is 23% chances of buying product 5.Similarly there is 0.5% of chances of having this transactions overall.</p>
