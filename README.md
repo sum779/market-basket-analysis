@@ -84,3 +84,46 @@ For sample of data, i have added how data looked like by changing product name a
     <td></td>
   </tr>
 </table>
+<h2>Sample Output in table</h2>
+<table>
+ <tr>
+   <th>Rule</th>
+   <th>Antecedents</th>
+   <th>Consequents</th>
+   <th>Antecedent Support</th>
+   <th>Consequent Support</th>
+   <th>Support</th>
+   <th>Confidence</th>
+   <th>Lift</th>
+   <th>Leverage</th>
+   <th>Conviction</th>
+   <th>Zhang's Metric</th>
+ </tr>
+ <tr>
+   <td>18</td>
+   <td>Product 1</td>
+   <td>Product 6</td>
+   <td>0.021104</td>
+   <td>0.073574</td>
+   <td>0.005048</td>
+   <td>0.239216</td>
+   <td>3.251342</td>
+   <td>0.003496</td>
+   <td>1.217724</td>
+   <td>0.707363</td>
+ </tr>
+ <tr>
+   <td>19</td>
+   <td>Product 5</td>
+   <td>Product 8</td>
+   <td>0.073574</td>
+   <td>0.021104</td>
+   <td>0.005048</td>
+   <td>0.068616</td>
+   <td>3.251342</td>
+   <td>0.003496</td>
+   <td>1.051013</td>
+   <td>0.747426</td>
+ </tr>
+</table>
+<p>We can interpret that</p>
